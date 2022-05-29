@@ -1,6 +1,6 @@
 module github.com/Zeldoso17/API-GO-REDSOCIAL
 
-go 1.16
+go 1.23
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
